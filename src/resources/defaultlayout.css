@@ -1,0 +1,76 @@
+.layout {
+  height: 100vh;
+  padding: 20px 50px;
+}
+
+.header {
+  height: 10%;
+  background-color: #23272b;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.header h1 {
+  font-size: 25px;
+  color: white;
+  margin: 0 !important;
+}
+
+.content {
+  height: 87%;
+  border: 1px solid gray;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 3px rgba(128, 128, 128, 0.486);
+  padding: 10px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.btn-menu {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 16px;
+  color: #23272b;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: 5px;
+  border: 1px solid white;
+  background: white;
+}
+
+.btn-profile {
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #23272b;
+  background: #23272b;
+}
+
+.btn-back {
+  font-size: 15px;
+  color: #23272b;
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #23272b;
+  background: white;
+}
+
+.btn-add {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 5px;
+}
