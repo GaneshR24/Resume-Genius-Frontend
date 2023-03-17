@@ -9,3 +9,7 @@ Resume Genius is a web application that allows users to easily create profession
 **•** **Dynamic Preview:** Real-time preview of the resume as it is being edited and ability to switch between templates and see how the content will look in each one.
 
 **•** **Download and Print:** Option to download the finished resume as a PDF and users can directly take print from the app.
+
+### Demo credentials:
+
+**User Email:** user@gmail.com | **Password:** user123
